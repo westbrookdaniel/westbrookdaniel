@@ -1,4 +1,4 @@
-## Hi, I'm a Front-end Developer
+## Hi, I'm a Front End Developer
 
 Find out more about me on my [website](https://westbrookdaniel.com/)
 
