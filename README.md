@@ -1,5 +1,7 @@
 <br/>
+<br/>
 <img width="300px" src="https://westbrookdaniel.com/images/static/email-logo.png"  alt="Daniel Westbrook"/>
+<br/>
 
 # Hi, I'm a Front End Developer and Designer
 
