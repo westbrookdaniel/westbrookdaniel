@@ -3,7 +3,7 @@
 <img width="300px" src="https://westbrookdaniel.com/images/static/email-logo.png"  alt="Daniel Westbrook"/>
 <br/>
 
-# Hi, I'm a Front End Developer and Designer
+# Front End Developer and Designer Building <br/>Modernistic Digital Solutions
 
 I am a Front End Developer and Designer with a history of working in the web development and design industry building websites and web apps. I enjoy formulating efficient, innovative solutions for Perth businesses and agencies that utilise strategic design thinking.
  
