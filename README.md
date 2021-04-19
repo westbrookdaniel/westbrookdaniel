@@ -1,20 +1,13 @@
 <br/>
+<img width="200px" src="https://westbrookdaniel.com/images/static/email-logo.png"  alt="Daniel Westbrook"/>
 <br/>
-<img width="300px" src="https://westbrookdaniel.com/images/static/email-logo.png"  alt="Daniel Westbrook"/>
+<br/>
 <br/>
 
-# Front End Developer and Designer Building <br/>Modernistic Digital Solutions
+# Front End Developer and Designer
 
-I am a Front End Developer and Designer with a history of working in the web development and design industry building websites and web apps. I enjoy formulating efficient, innovative solutions for Perth businesses and agencies that utilise strategic design thinking.
+Hi, I'm Daniel Westbrook and I am a Full Stack Developer and Designer primarily working with React building web apps. I creating performant solutions and exploring new tools and technologies.
+
+Some of my favourite things are Next.js, TailwindCSS, and Typescript. When I'm not coding you can find me playing sport (tennis and hockey), video games, or listening to music.
  
-Find out more about me on my [website](https://westbrookdaniel.com/) where you can also discover some of my recent projects.
-
-## Some Languages and Tools I Enjoy
-
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  alt="react"/>
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"  alt="tailwind"/>
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/>
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"/>
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"/>
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"/>
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firefox/firefox.png" alt="firefox"/>
+Find out more about me on my [website](https://westbrookdaniel.com/) where you can read my blog posts and discover some of my projects.
