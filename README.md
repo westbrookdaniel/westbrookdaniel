@@ -1,7 +1,6 @@
 <br/>
 <img width="200px" src="https://westbrookdaniel.com/images/static/email-logo.png"  alt="Daniel Westbrook"/>
 <br/>
-<br/>
 
 # Front End Developer and Designer
 
