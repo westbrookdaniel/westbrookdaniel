@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-Checkout my [website](https://westbrookdaniel.com/). I have a lot of projects, so here are a few I find interesting:
+Checkout my [website](https://westbrookdaniel.com/). I spend most of my time coding React and NodeJS, but I have a lot of projects and here are a few I find interesting:
 
 - [My personal website made with Eleventy](https://github.com/westbrookdaniel/website)
 - [A complete template I made for using Fastify](https://github.com/westbrookdaniel/api-template)
